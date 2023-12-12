@@ -1,4 +1,3 @@
-# bn017-HTML-Projects
 HTML Practise projects 
 Project 1: Personal Portfolio Website
 Description:
